@@ -41,3 +41,6 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+/.angular/
+/projects/ngx-toasta/node_modules/
+/projects/ngx-toasta/package-lock.json
